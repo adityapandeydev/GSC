@@ -1,4 +1,3 @@
-# model/main.py
 import json
 
 def generate_investment_advice(user_input):
